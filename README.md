@@ -18,7 +18,7 @@ Passionate about cybersecurity, I build hands-on projects focused on vulnerabili
 
 
 
-[<img align="left" alt="https://www.linkedin.com/in/josephmckelvey/__________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/josephmckelvey__________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [twitter]: https://twitter.com/___________
