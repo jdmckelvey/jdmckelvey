@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/Joseph Mckelvey/">Joseph Mckelvey</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Passionate about cybersecurity, I build hands-on projects focused on vulnerability management, threat detection, and strengthening security operations. Explore the repository to see how I approach real-world security challenges.
 
 
 ## ⚠️ Vulnerability Management Projects
