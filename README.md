@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 
-[<img align="left" alt="Joseph Mckelvey___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="www.linkedin.com/in/josephmckelvey___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [twitter]: https://twitter.com/___________
